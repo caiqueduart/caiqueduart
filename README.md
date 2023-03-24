@@ -1,6 +1,6 @@
-### Olá, Me chamo Caique Duarte!
-
+### Olá, me chamo Caique Duarte e sou estudante de Engenharia de Software!
 ##
+
 Linguagens que estou aprendendo e estudando atualmente:
 <div style="display: inline_block"><br>
   <img align="center" alt="Caique-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
