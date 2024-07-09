@@ -1,4 +1,4 @@
-### Olá, me chamo Caique Duarte e sou estudante de Engenharia de Software!
+### Olá, me chamo Caique Duarte e sou estudante de Engenharia de Software, Desenvolvimento Web, e UI Design.
 ##
 
 Linguagens que estou aprendendo e estudando atualmente:
