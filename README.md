@@ -1,4 +1,4 @@
-### 🌟 Olá! Eu sou o Caique Duarte 🌟
+## Olá! Eu sou o Caique Duarte 👽🌟
 🚀 Estudante de Engenharia de Software, Desenvolvimento Web e UI Design.
 🛠️ Tecnologias que estou aprendendo e estudando atualmente:
 <div style="display: inline_block"><br>
