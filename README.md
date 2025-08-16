@@ -3,7 +3,6 @@
 <p>🛠️ Tecnologias que estou familiarizado atualmente:</p>
 
 <br/>
-<br/>
 
 <div>
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
