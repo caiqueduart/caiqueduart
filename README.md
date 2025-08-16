@@ -1,6 +1,6 @@
-<h1 align="center">Olá! Eu sou o Caique Duarte. 👽🌟</h1>
-<p align="center">🚀 Estudante de Engenharia de Software e Desenvolvedor Web Front-end.  </p>
-<p align="center">🛠️ Tecnologias que estou familiarizado atualmente:</p>
+<h1>Olá! Eu sou o Caique Duarte. 👽🌟</h1>
+<p>🚀 Estudante de Engenharia de Software e Desenvolvedor Web Front-end.  </p>
+<p>🛠️ Tecnologias que estou familiarizado atualmente:</p>
 
 <br/>
 <br/>
@@ -44,6 +44,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?    username=caiqueduart&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiqueduart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=caiqueduart&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiqueduart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
