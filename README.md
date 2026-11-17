@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14151f,100:f5b23a&height=140&section=header" width="100%" alt="" />
+
 # Olá, eu sou o Caique Duarte 🌻
 
 **Desenvolvedor Front-end e QA**, graduando em Engenharia de Software na UFG.
